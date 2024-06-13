@@ -1,0 +1,21 @@
+{
+  "short_name": "YOLOV10",
+  "name": "YOLOv10 Object Detection App",
+  "icons": [
+    {
+      "src": "/icon/icon-72x72.png",
+      "sizes": "72x72 64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
